@@ -4,6 +4,10 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/c260ac31d15082c7604a815f8aeed6112734638c/assets/twitter.svg" />
 </a>
 
+<a href="https://discord.gg/nsdJF3">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelluk&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,9 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://discord.gg/...">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
 
 -->
+
+<iframe src="https://discordapp.com/widget?id=656521726548639754&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
