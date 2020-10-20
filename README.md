@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/lel_luk">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/c260ac31d15082c7604a815f8aeed6112734638c/assets/twitter.svg" />
+  <img align="left" alt="Lel Luk | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/c260ac31d15082c7604a815f8aeed6112734638c/assets/twitter.svg" />
 </a>
 
 <a href="https://discord.gg/nsdJF3">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Lel's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+
+<br />
+<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lelluk&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
