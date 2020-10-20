@@ -8,12 +8,12 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelluk&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Lel Luk's github stats](https://github-readme-stats.vercel.app/api?username=lelluk&show_icons=true&theme=calm&count_private=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lelluk&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelluk&layout=compact&theme=radical" />
+</a>
 <!--
 **lelluk/lelluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 
 -->
 
-<iframe src="https://discordapp.com/widget?id=656521726548639754&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
